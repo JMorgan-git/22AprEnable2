@@ -1,19 +1,28 @@
 # 22AprEnable2
 ## Small Header
 
+🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧 🐧
 
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 _italics_  
 **bold**
 
-###Quote me
+### Quote me
 >these lines
 >are 
 >qoutes
 >
 ### lists
 
-*Bullet points
+* Bullet points
  * followed by indenting
 * followed by more
 
@@ -21,7 +30,7 @@ _italics_
  2. Indented
 3. More numbers
 
-###Breaks
+### Breaks
 
 Hard Break
 
@@ -33,7 +42,7 @@ Soft Breaks
 More  
 More  
 
-###Links  
+### Links  
 [Lets Go Google](https://www.google.co.uk/)
 
 <details>
@@ -41,16 +50,18 @@ More
 this is a hidden colapsable section
 </details>
 
-###Creating a table
+### Creating a table
 
 | Column1     | Column2     |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 
-###Creating a more full Table... its all in the hyphens 
+### Creating a more full Table... its all in the hyphens 
 
 | Left Align  | Centre Align | Right Align   |
 | :---        |    :----:    |          ---: |
 | Row1        | Row1         | Row1          |
 | Row2        | Row2         | Row2          |
+
+~~for text that is crossed out.~~ incase in the good old squigglies .
